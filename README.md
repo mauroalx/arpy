@@ -17,7 +17,8 @@ To start using Arpy, set the network in the subnet field. However, you must firs
 
 ## Requirements
 
-Npcap (https://npcap.com/dist/npcap-1.79.exe) - Please download from the official repository.
+Npcap (https://npcap.com/dist/npcap-1.79.exe) – Please download it from the official repository.
+Note: Windows includes WinPcap by default, so installing Npcap may not be necessary.
 
 # Screenshots
 

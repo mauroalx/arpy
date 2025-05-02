@@ -1,4 +1,4 @@
-# Arpy (Arp ran in Python)
+# Arpy (ARP ran in Python)
 
 ## What is Arpy?
 
